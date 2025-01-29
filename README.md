@@ -23,6 +23,10 @@ Logs trade details including entry, exit, profit/loss, and trailing stop adjustm
 📌 Total Profit/Loss<br/> 📌 Win Rate (%)<br/> 📌 Average Profit per Trade<br/> 📌 Number of Trades Executed
 ##
 
+![image](https://github.com/user-attachments/assets/849cd21f-191e-498d-9e66-32b0650e7443)
+
+
+
 **Try It Now!**
 
 🚀 Contributions & feedback are welcome! If you have ideas to improve this strategy, drop a comment or fork the repo. Happy coding! 🏆
