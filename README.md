@@ -13,7 +13,7 @@ Exits trades based on a 1% target or stop-loss hit.<br/>
 Logs trade details including entry, exit, profit/loss, and trailing stop adjustments.<br/>
 ##
 ##
-**Key Features**## 
+**Key Features**<br/>
 ✔ Fully automated entry & exit logic<br/>
 ✔ Customizable stop-loss & profit targets<br/>
 ✔ Comprehensive trade logging for analysis<br/>
@@ -23,7 +23,7 @@ Logs trade details including entry, exit, profit/loss, and trailing stop adjustm
 **Performance Metrics**<br/>
 📌 Total Profit/Loss<br/> 📌 Win Rate (%)<br/> 📌 Average Profit per Trade<br/> 📌 Number of Trades Executed
 ##
-
+**Such Result will be reflecting after running the code**
 ![image](https://github.com/user-attachments/assets/849cd21f-191e-498d-9e66-32b0650e7443)
 
 
