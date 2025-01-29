@@ -23,7 +23,8 @@ Logs trade details including entry, exit, profit/loss, and trailing stop adjustm
 **Performance Metrics**<br/>
 📌 Total Profit/Loss<br/> 📌 Win Rate (%)<br/> 📌 Average Profit per Trade<br/> 📌 Number of Trades Executed
 ##
-**Such Result will be reflecting after running the code**
+**Such Result will be reflecting after running the code**<br/>
+
 ![image](https://github.com/user-attachments/assets/849cd21f-191e-498d-9e66-32b0650e7443)
 
 
